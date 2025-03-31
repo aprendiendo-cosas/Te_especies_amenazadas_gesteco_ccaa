@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Dos sesiones de una hora.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/2024_2025/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/2024-2025/imagenes/portada.jpg)
 
 
 
@@ -26,7 +26,7 @@ Los objetivos de este acto docente son:
 
 ## Hilo argumental
 
-Todos los temas en los que se abordan procedimientos de gestión sectoriales o parciales siguen el mismo hilo argumental con los siguientes elementos. Aquí se puede descargar la presentación que se usó para guiar la explicación. 
+Todos los temas en los que se abordan procedimientos de gestión sectoriales o parciales siguen el mismo hilo argumental con los siguientes elementos. [Aquí](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/refs/heads/2024-2025/presentacion/gestion_especies_amenazadas.pptx) se puede descargar la presentación que se usó para guiar la explicación. 
 
 ### Definición y objetivos
 + La gestión de especies amenazadas es el conjunto de acciones planificadas, basadas en envidencia científica, dirigidas a mantener o recuperar poblaciones viables de especies que enfrentan un riesgo de extinción significativo.
@@ -35,13 +35,13 @@ Todos los temas en los que se abordan procedimientos de gestión sectoriales o p
 + Los seres humanos nos expandimos por el planeta y en el proceso "empujamos" a otras especies a la extinción. [Este](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024_2025/biblio/informe_planeta_vivo_2024-completo.pdf) informe de WWF describe con detalle buena parte de las secciones siguientes. 
 + Esto ha ocurrido históricamente prácticamente desde que existimos como especie.
 + La tasa de extinción provocada por nuestra actividad es unas 100 veces superior a la natural.
-+ Se estima que un 25% de todas las especies podría estar amenazada, aunque no tenemos datos de todas ellas. En [este](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024_2025/biblio/extincion_antropica.pdf) artículo tienes más detalles.
++ Se estima que un 25% de todas las especies podría estar amenazada, aunque no tenemos datos de todas ellas. En [este](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024-2025/biblio/extincion_antropica.pdf) artículo tienes más detalles.
 + El 68% de las poblaciones de vertebrados ha experimentado un declive poblacional desde 1970 hasta 2016
 + Es necesario frenar la pérdida de especies por varias razones:
   + El planeta no puede proveer servicios a las sociedades humanas si no hay ecosistemas sanos y funcionales.
   + No tenemos derecho a erradicar a nuestros "vecinos" de planeta.
   + La desaparición de especies genera efectos directos en las poblaciones humanas (ej. los buitres en la India).
-  + Los sistemas con menos especies son más proclives a experimentar transiciones de fase (tipping points) y a dar lugar a sistemas más simples y con menos capacidad de proveer servicios. [Este](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024_2025/biblio/tipping_points.pdf) artículo describe en qué consiste este fenómeno (es complejo...)
+  + Los sistemas con menos especies son más proclives a experimentar transiciones de fase (tipping points) y a dar lugar a sistemas más simples y con menos capacidad de proveer servicios. [Este](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024-2025/biblio/tipping_points.pdf) artículo describe en qué consiste este fenómeno (es complejo...)
 
 
 ### ¿Por qué existe este problema?
@@ -64,13 +64,13 @@ Todos los temas en los que se abordan procedimientos de gestión sectoriales o p
 
 En el ámbito de la ecología podemos destacar los siguientes:
 
-- Demografía de poblaciones. Todos los descriptores que se usan para caracterizar las poblaciones. A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2024_2025/guion_poblaciones_general.html) va el guión sobre ese tema en la asignatura de ecología. Y [aquí](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024_2025/biblio/origen_categorias_UICN.pdf) un artículo que describe el origen de las categorías de amenaza de la UICN.
+- Demografía de poblaciones. Todos los descriptores que se usan para caracterizar las poblaciones. A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2024_2025/guion_poblaciones_general.html) va el guión sobre ese tema en la asignatura de ecología. Y [aquí](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024-2025/biblio/origen_categorias_UICN.pdf) un artículo que describe el origen de las categorías de amenaza de la UICN.
 - Teoría de las metapoblaciones. También como recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2024_2025/guion_metapoblaciones.html) va el guión sobre este asunto.
 - Para gestionar especies amenazadas y reducir su riesgo de extinción también hay que tener en cuenta cuestiones como la diversidad genética de las poblaciones.
 
 En el ámbito más social, consideramos las siguientes teorías o marcos conceptuales:
 
-+ Construcción social de la realidad. [Este](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024_2025/biblio/species_social_problems.pdf) artículo describe el papel de las teorías sociales en la conservación de especies 
++ Construcción social de la realidad. [Este](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/raw/2024-2025/biblio/species_social_problems.pdf) artículo describe el papel de las teorías sociales en la conservación de especies 
 + La teoría de la justicia social establece que los sistemas sociales son más eficaces si hay una distribución equitativa de los recursos. Mediante esta teoría se relacionan las poblaciones humanas con las de otras especies. 
 + La gobernanza también es clave para gestionar adecuadamente las especies amenazadas. Muchos de los fracasos ocurridos tras la reintroducción de especies se deben a que no se consideraron las necesidades de los actores locales en el territorio. 
 
@@ -106,7 +106,7 @@ A pesar de ser un procedimiento de gestión relativamente exitoso, se enfrenta e
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_especies_amenazadas_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
