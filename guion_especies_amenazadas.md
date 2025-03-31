@@ -59,6 +59,12 @@ En el ámbito de la ecología podemos destacar los siguientes:
 
 - Demografía de poblaciones. Todos los descriptores que se usan para caracterizar las poblaciones. A modo de recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2024_2025/guion_poblaciones_general.html) va el guión sobre ese tema en la asignatura de ecología. 
 - Teoría de las metapoblaciones. También como recordatorio, [aquí](https://rawcdn.githack.com/aprendiendo-cosas/Te_metapoblaciones_ecologia_ccaa/2024_2025/guion_metapoblaciones.html) va el guión sobre este asunto.
+- Para gestionar especies amenazadas y reducir su riesgo de extinción también hay que tener en cuenta cuestiones como la diversidad genética de las poblaciones.
+
+En el ámbito más social, consideramos las siguientes teorías o marcos conceptuales:
+
++ Construcción social de la realidad.
++ 
 
 
 
